@@ -7,6 +7,7 @@
     <ImageView
         android:id="@+id/iv_action"
         android:layout_width="wrap_content"
+        android:layout_marginStart="10dp"
         android:layout_centerVertical="true"
         android:layout_height="80dp"/>
     <TextView
